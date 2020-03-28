@@ -11,7 +11,7 @@ class GetFlutter extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: GFUI(title: 'GFUI'),
+      home: GFUI(title: 'Get Flutter UI'),
       debugShowCheckedModeBanner: false,
     );
   }
